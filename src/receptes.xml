@@ -1,0 +1,267 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<carta>
+    <plats tipus="entrants" grup="freds">
+        <plat grup="amanides" numero="11">
+            <nom>Amanida catalana</nom>
+            <preu>62</preu>
+            <recepta>
+                <ingredients>
+                    <ingredient>Xorisso</ingredient>
+                    <ingredient>Pernil dolç</ingredient>
+                    <ingredient>Catalana</ingredient>
+                    <ingredient>Llonganissa</ingredient>
+                </ingredients>
+                <procediment>Es treuen uns quants embutits del plàstic del super i es posen en un plat</procediment>
+            </recepta>
+            <nota>Sobretot que no n'hi hagi gaires perquè som un restaurant de categoria. Vegilar que hi hagi catalana o la Generalitat no ens donarà subvenció</nota>
+        </plat>
+        <plat grup="amanides" numero="12">
+            <nom>Amanida verda</nom>
+            <preu>15</preu>            
+            <recepta>
+                <ingredients>
+                    <ingredient>Enciam</ingredient>
+                    <ingredient>Seba</ingredient>
+                    <ingredient>Escarola</ingredient>
+                </ingredients>
+                <procediment>S'agafa una mica de tot el verd que hi hagi a la nevera. No posar-hi tomata que semblaria una amanida normal</procediment>
+            </recepta>
+        </plat>
+        <plat grup="altres" numero="13">
+            <nom>Olives rellenes</nom>
+            <preu>20</preu>
+            <especialitat />
+            <recepta>
+                <ingredients>
+                    <ingredient>Llauna d'olives "Matador"</ingredient>
+                </ingredients>
+                <procediment>S'obre la llauna i es tiren les olives en un recipient</procediment>
+            </recepta>
+        </plat>
+        <plat grup="altres" numero="14">
+            <nom>Escopinyes amb pebre vermell</nom>
+            <preu>13</preu>
+            <recepta>
+                <ingredients>
+                    <ingredient>Llauna d'escopinyes "Dani"</ingredient>
+                    <ingredient>Pebre vermell</ingredient>
+                    <ingredient>Oli</ingredient>
+                </ingredients>
+                <procediment>S'obre la llauna i es posa en un recipient. Es tira pebre vermell pel damunt</procediment>
+            </recepta>
+        </plat>
+    </plats>
+    <plats tipus="entrants" grup="calents">
+        <plat grup="peixos" numero="21">
+            <nom>Calamars a la romana</nom>
+            <preu>25</preu>
+            <recepta>
+                <ingredients>
+                    <ingredient>Oli</ingredient>
+                    <ingredient>Calamars a la romana congelats "Pepet"</ingredient>
+                </ingredients>
+                <procediment>Es treuen els calamars de la bossa del congelador i es posen a la fregidora. 
+                             Quan comencin a agafar color es treuren de la fregidora i s'hi posa all i juliverd perquè sembli que són fets a mà
+                </procediment>
+            </recepta>
+        </plat>
+        <plat grup="altres" numero="22">
+            <nom>Patates braves</nom>
+            <preu>19</preu>
+            <recepta>
+                <ingredients>
+                    <ingredient>Oli</ingredient>
+                    <ingredient>Patates</ingredient>
+                    <ingredient>Salsa brava "Carreful"</ingredient>
+                </ingredients>                
+                <procediment>Es posen les patates a rossejar i quan estiguin s'hi tira salsa de pot al damunt</procediment>
+            </recepta>
+        </plat>
+        <plat grup="dolços" numero="24">
+            <nom>Canapés de Déu</nom>
+            <preu>40</preu>
+            <recepta>
+                <ingredients>
+                    <ingredient>Galetes "Maria Dorada"</ingredient>
+                    <ingredient>Llet condensada "La Lechera"</ingredient>                
+                </ingredients>
+                <procediment>
+                    Es posa una quantitat generosa de Llet "La Lechera" sobre una de les dues galetes i tot seguit
+                    es tapa amb l'altra formant un entrepà
+                </procediment>
+            </recepta>
+        </plat>
+        <plat grup="altres" numero="25">
+            <nom>Bocates d'oxigen</nom>
+            <preu>30</preu>
+            <especialitat />
+            <recepta>
+            <ingredients>
+                <ingredient>Pa</ingredient>
+                <ingredient>Aire</ingredient>
+            </ingredients>
+            <procediment>
+                Es tallen dues llesques de pa i amb un ventall es fa passar aire pel mig de cada llesca
+                s'uneixen les dues llesques i es serveix rapidament al client.
+                El procés ha de ser ràpid perquè l'aire no s'escapi
+            </procediment>
+            </recepta>
+        </plat>
+ 
+    </plats>
+    <plats tipus="vegetarians">
+        <plat grup="pasta" numero="31">
+            <nom>Gnoquis saludables</nom>
+            <preu>40</preu>
+            <recepta>
+                <ingredients>
+                    <ingredient>Gnoquis "Arturo"</ingredient>
+                    <ingredient>Aigua</ingredient>
+                </ingredients>                
+                <procediment>S'agafen i es couen. Sobretot no posar-hi cap tipus de salsa</procediment>                
+            </recepta>
+            <nota>L'excusa que s'ha de donar si algun client es queixa és que són "de regim"</nota>
+        </plat>
+        <plat grup="pasta" numero="32">
+                <nom>lassanya verda amb carbassa i bolets</nom>
+                <preu>21</preu>
+                <recepta>
+                    <ingredients>
+                        <ingredient>Lassanya congelada "Portis"</ingredient>                       
+                    </ingredients>
+                    <procediment>
+                        Es cou la lassanya de forma normal i al final es treu la carn perquè els clients no es queixin
+                    </procediment>
+                </recepta>
+        </plat>
+        <plat grup="altres" numero="32">
+            <nom>Mongetes seques de l'àvia Fernanda</nom>
+            <preu>70</preu>
+            <recepta>
+                <ingredients>
+                    <ingredient>Llauna de mongetes de qualsevol marca</ingredient>
+                    <ingredient>Aigua</ingredient>
+                </ingredients>
+                <procediment>
+                    S'obre la llauna i es posen les mongetes al foc dins d'un pot d'aigua calenta. 
+                    Al cap d'una hora es retira tot
+                </procediment>
+            </recepta>
+            <nota>Aquest plat s'ha de fomentar perquè té subvenció de la Generalitat per fomentar plats històrics!</nota>
+        </plat>
+    </plats>
+    <plats tipus="carns">
+        <plat grup="carn" numero="41">
+            <nom>Hamburguesa catalana</nom>
+            <preu>50</preu>
+            <recepta>
+                <ingredients>
+                    <ingredient>Carn picada</ingredient>
+                    <ingredient>Crema catalana</ingredient>
+                    <ingredient>Rovellons</ingredient>
+                </ingredients>                
+                <procediment>El procediment és secret per evitar problemes amb Sanitat</procediment>
+            </recepta>
+            <especialitat />
+        </plat>
+        <plat grup="carn" numero="42">
+            <nom>SuperFrankfurts</nom>
+            <preu>40</preu>
+            <recepta>
+                <ingredients>
+                    <ingredient>Frankfurts del supermercat de la cantonada</ingredient>
+                    <ingredient>Oli</ingredient>
+                </ingredients>
+                <procediment>
+                Es posa a escalfar l'oli i quan estigui calent es treuen el frankfurts del plàstic, important, i es 
+                posen durant una estona sobre l'oli.
+                Es serveixen amb el tiquet del supermercat per demostrar que són "super" frankfurts 
+                (altrament dits "frankfurts del super").
+                </procediment>                
+            </recepta>
+        </plat>
+        <plat grup="carn" numero="43">
+            <nom>Llom a la sal amb coulis de fruits del bosc</nom>
+            <preu>30</preu>
+            <recepta>
+                <ingredients>
+                    <ingredient>Llom</ingredient>
+                    <ingredient>Sal</ingredient>
+                    <ingredient>Fruits del bosc</ingredient>
+                    <ingredient>Oli</ingredient>
+                </ingredients>
+                <procediment>
+                    El procediment és secret 
+                </procediment>
+            </recepta>
+            <nota>
+                No hi ha ningú que tingui ni idea de com es fa. Això ho feia un cuiner que es va contractar per uns mesos i 
+                ara no hi és... Si algú demana això s'ha de convèncer de que trïi alguna altra cosa
+            </nota>
+        </plat>        
+    </plats>
+    <plats tipus="peixos">
+        <plat grup="peixos" numero="51">
+            <nom>Carpaccio de bacallà</nom> 
+            <preu>18</preu>
+            <recepta>
+                <ingredients>
+                    <ingredient>Bacallà</ingredient>
+                    <ingredient>Tomata</ingredient>
+                    <ingredient>Oli</ingredient>
+                </ingredients>
+                <procediment>
+                     Es posa tot junt i es tritura una mica amb el minipimer. Sobretot no triturar gaire no sigui que 
+                     s'escalfi i no sembli un "carpaccio"
+                </procediment>
+            </recepta>            
+        </plat>
+    </plats>
+    <plats tipus="postres" grup="freds">
+        <plat grup="gelats" numero="51">
+            <nom>Gelat</nom>
+            <preu>27</preu>
+            <recepta>
+                <ingredients>
+                    <ingredient>Gelat</ingredient>
+                </ingredients>
+                <procediment>S'agafa del congelador i s'hi posa una sombrilla de paper</procediment>
+            </recepta>
+            <nota>Sobretot s'ha de vegilar que en el paper no es vegi el preu recomanat del fabricant</nota>
+        </plat>
+        <plat grup="gelats" numero="55">
+        		<nom>Cubitos de gel d'Islàndia</nom>
+        		<preu>15</preu>
+                <especialitat />
+        		<recepta>
+        			<ingredients>
+        				<ingredient>Aigua</ingredient>
+        			</ingredients>
+        			<procediment>
+        				S'emplenen els motllos amb aigua de l'aixeta i es deixen en el congelador que vam comprar a
+        				Islàndia
+        			</procediment>        			
+        		</recepta>
+        </plat>
+    </plats>
+    <plats tipus="postres" grup="calents">
+        <plat grup="altres" numero="52">
+            <nom>Cafè</nom>
+            <preu>10</preu>
+        </plat>
+        <plat grup="dolços" numero="53">
+            <nom>Crema Catalana del xef</nom>
+            <preu>45</preu>
+            <recepta>
+                <ingredients>
+                    <ingredient>Llet</ingredient>
+                    <ingredient>Crema catalana de sobre "Puig"</ingredient>
+                </ingredients>
+                <procediment>
+                    Es fa bullir la llet i s'hi tira mig sobre de crema en pols
+                </procediment>
+            </recepta>
+        </plat>
+    </plats>    
+ 
+</carta>

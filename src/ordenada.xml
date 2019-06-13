@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Plats>
+    <plat>
+        <nom>Amanida verda</nom>
+        <preu>15</preu>
+        <recepta>
+            <ingredients>
+                <ingredient>Enciam</ingredient>
+                <ingredient>Seba</ingredient>
+                <ingredient>Escarola</ingredient>
+            </ingredients>
+            <procediment>S'agafa una mica de tot el verd que hi hagi a la nevera. No posar-hi tomata que semblaria una amanida normal</procediment>
+        </recepta>
+    </plat>
+    <plat>
+        <nom>Amanida catalana</nom>
+        <preu>62</preu>
+        <recepta>
+            <ingredients>
+                <ingredient>Xorisso</ingredient>
+                <ingredient>Pernil dolç</ingredient>
+                <ingredient>Catalana</ingredient>
+                <ingredient>Llonganissa</ingredient>
+            </ingredients>
+            <procediment>Es treuen uns quants embutits del plàstic del super i es posen en un plat</procediment>
+        </recepta>
+    </plat>
+</Plats>
